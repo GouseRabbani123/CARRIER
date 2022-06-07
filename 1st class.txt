@@ -1,0 +1,35 @@
+Notes for Js
+
+1. Javascript is a high level lanugue => there are two types of languages 
+
+a. low level => low level means machine depenedent ex => copying the data is not done it is fixed to only one machine.
+
+b. high level => machine independent lanugue ex=> copying the data from one machine to another machine using the pendrive "which means we can run the same code in differnt machines.
+
+
+2. javascript is a interpreted programming langugue
+ 
+what is interpreter do ? => what evr the programme that we writtereen it turns the code  into machine understandable languge on the spot.
+
+while compiler dont do like that , it works as what ever code we writtern first it sends to interpritter then from there it converts the code into machine understandable language.
+
+3.javascript is also has object oriennted capabilities.
+
+4. js is also called as untyped lang. it means we can anssign any type of variables easily using "var" we dont need to write "int, char, float" infront og the variable.
+
+5.javascript is a client side scripting languge."backend supporting"
+
+6.javascript is a case sensitive language."caps samll difereence is taken"
+
+7.if we wants to include js insdie  the website that means we need to incluide it inside the script tag . And the script is  writtern insde the "BODY" of the web page. 
+like this 
+<script>
+JS CODE WRITTERN AT HERE.
+</script>
+
+8. using the "src" attribute we can run the js file separetly in new page 
+like this .
+<script src = "index.js" > </script>
+
+
+
