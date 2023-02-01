@@ -1,0 +1,59 @@
+1. What is emmet?
+Emmet in Visual Studio Code: Emmet is a built-in feature in Visual Studio Code. You don’t have to install any extensions for emmet support. Emmet prevents you from writing the entire code by yourself by providing Emmet abbreviation. Emmet is enabled by default in html, haml, pug, slim, jsx, xml, xsl, css, scss, sass, less and stylus files, and also in languages that inherits from any of the above like handlebars and PHP.
+
+2.what is CDN?
+A content delivery network (CDN) refers to a geographically distributed group of servers which work together to provide fast delivery of Internet content.
+
+You need ReactJS CDN to load your React and Components into the ReactJs ecosystem. You need ReactDOM to render your Components in the DOM Tree, and you need Babel to transpile your JSX to simple JS so that all the browsers can read them.wecan inject react code using CDN.
+
+A CDN allows for the quick transfer of assets needed for loading Internet content including HTML pages, javascript files, stylesheets, images, and videos. The popularity of CDN services continues to grow, and today the majority of web traffic is served through CDNs, including traffic from major sites like Facebook, Netflix, and Amazon.
+
+3.what is cross origin?
+
+In ReactJS, Cross-Origin Resource Sharing (CORS) refers to the method that allows you to make requests to the server deployed at a different domain. As a reference, if the frontend and backend are at two different domains, we need CORS there
+
+4.what is domain?
+Domain in the realm of software engineering commonly refers to the subject area on which the application is intended to apply.
+
+
+5.what is arguments and paremetrs inside a function ?
+arguments are the valuses that you prvides while calling the function and parameters are the values that u provide while declatiging the function
+ex:
+var foo = function( a, b, c ) {}; // a, b, and c are the parameters
+
+foo( 1, 2, 3 ); // 1, 2, and 3 are the arguments
+
+
+6.difference between async and differ?
+ Normal :
+html code runs on  , as the script tag gets the script code starts running, then after the excecution of script tag then again the html code runs and compltes .
+
+Async:
+both html code and script code runs parellel once the script code compltes it executes and then the html code also complets and excecute.
+
+differ:
+first the html compltes it part and excecute then the script starts running and execute its code.
+
+
+suppose you have multiple scripts which are depend on each other then 
+some scripts are depends on other and some scripts are depends on other 
+then in such cases use "differ ".
+in case you have your google scripts or some external scripts in your code which you need to execute with your code in such cases use differ.
+
+imp: mostly use differ attribute becuse it maintains the order of execution of scripts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
